@@ -21,4 +21,5 @@ only at the amateur level. In the real life I living fitness lifestyle.
 <code><img alt="IntelliJ IDEA" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/512px-IntelliJ_IDEA_Logo.svg.png" /></code>
 
 ### GitHub
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilanTuryna&theme=prussian">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilanTuryna&theme=prussian" align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=MilanTuryna&theme=prussian">
+
