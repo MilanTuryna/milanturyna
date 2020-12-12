@@ -1,4 +1,4 @@
-### Hello, friend!
+### Hello, friend! 👋
 This is a few sentences about me, so I start with who am I? I'm 13 years old who lives in Czech Republic (small country in the Central Europe). 
 I am mainly fullstack web developer but I like try new technologies including other focus. 
 I have over 2 years experience as a web developer (PHP - Nette Framework, html&css) and over one year experience in JavaScript and Java, but yet 
