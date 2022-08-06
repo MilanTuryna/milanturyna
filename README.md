@@ -1,8 +1,7 @@
 ### Hello, friend! 👋
 This is a few sentences about me, so I start with who am I? I'm 15 years old who lives in Czech Republic (small country in the Central Europe). 
 I am mainly fullstack web developer but I like try new technologies including other focus. 
-I have over 2 years experience as a web developer (PHP - Nette Framework, html&css) and over one year experience in JavaScript and Java, but yet 
-only at the amateur level. In the real life I living fitness lifestyle. 
+I have over 4 years experience as a web developer (PHP - Nette Framework, html&css) and over one two years experience in JavaScript and Java.
 
 **Mostly used languages and tools:**
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
